@@ -42,4 +42,6 @@ iDwgClip 프로그램은 독립적으로 로딩이 가능하므로, 아래와 �
 - 1.0.0.3  : 1차프로그램 수정. (xclip+ 명령추가)
 - 1.0.0.2  : 초기 모듈 제작.
 
+![Alt text](/images/image01.gif "clipcopy")
+
 ## 기능 추가를 원하시거나 버그사항은 arx119@empas.com으로 보내주세요.
