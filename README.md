@@ -23,6 +23,22 @@ AutoCAD : 2000~2018 (32/64)
 ## 사용 방법
 명령입력창에서 "clipcopy", "mclip" 을 실행합니다.
 
+## AutoCAD 버전별 arx 버전
+- AutoCAD R2000~2002 (win32) : iDwgClip2000.arx    (mclip 지원하지 않음)
+- AutoCAD R2004~2006 (win32) : iDwgClip2004.arx    (mclip 지원하지 않음) 
+- AutoCAD R2007~2009 (win32) : iDwgClip2007.arx    (mclip 지원하지 않음) 
+- AutoCAD R2007~2009 (x64)   : iDwgClip2007x.arx   (mclip 지원하지 않음)
+- AutoCAD R2010~2012 (win32) : iDwgClip2010.arx    (mclip 지원)
+- AutoCAD R2010~2012 (x64)   : iDwgClip2010x.arx   (mclip 지원)
+- AutoCAD R2013~2014 (win32) : iDwgClip2013.arx    (mclip 지원) 
+- AutoCAD R2013~2014 (x64)   : iDwgClip2013x.arx   (mclip 지원)
+- AutoCAD R2015~2016 (win32) : iDwgClip2015.arx    (mclip 지원) 
+- AutoCAD R2015~2016 (x64)   : iDwgClip2015x.arx   (mclip 지원)
+- AutoCAD R2017 (win32)      : iDwgClip2017.arx    (mclip 지원) 
+- AutoCAD R2017 (x64)        : iDwgClip2017x.arx   (mclip 지원)
+- AutoCAD R2018 (win32)      : iDwgClip2018.arx    (mclip 지원) 
+- AutoCAD R2018 (x64)        : iDwgClip2018x.arx   (mclip 지원)
+
 ## 프로그램 로딩방법
 iDwgClip 프로그램은 독립적으로 로딩이 가능하므로, 아래와 같은 방법으로
 실행할 수 있습니다. 
