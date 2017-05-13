@@ -22,6 +22,10 @@ AutoCAD : 2000~2018 (32/64)
 ## 사용 방법
 명령입력창에서 "clipcopy", "mclip" 을 실행합니다.
 
+![Alt text](/images/image00.gif "mclip")
+
+![Alt text](/images/image01.gif "clipcopy")
+
 ## AutoCAD 버전별 arx 버전
 - AutoCAD R2000~2002 (win32) : iDwgClip2000.arx    (mclip 지원하지 않음)
 - AutoCAD R2004~2006 (win32) : iDwgClip2004.arx    (mclip 지원하지 않음) 
@@ -56,7 +60,5 @@ iDwgClip 프로그램은 독립적으로 로딩이 가능하므로, 아래와 �
 - 1.0.0.4  : 2차프로그램 수정. (xclip+의 rectangle옵션 버그수정, vpclip+ 명령추가)
 - 1.0.0.3  : 1차프로그램 수정. (xclip+ 명령추가)
 - 1.0.0.2  : 초기 모듈 제작.
-
-![Alt text](/images/image01.gif "clipcopy")
 
 ## 기능 추가를 원하시거나 버그사항은 arx119@gmail.com으로 보내주세요.
