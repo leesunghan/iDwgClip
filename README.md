@@ -1,7 +1,6 @@
 # iDwgClip
 설계도면의 일부분을 클립하는 유틸리티 프로그램
 
-- 파일명 : Readme_kor.txt
 - 관리자 : arx119@gmail.com
 - 생성일 : 2004년 06월 21일
 - 수정일 : 2004년 06월 19일 (1.0.0.3)
@@ -60,4 +59,4 @@ iDwgClip 프로그램은 독립적으로 로딩이 가능하므로, 아래와 �
 
 ![Alt text](/images/image01.gif "clipcopy")
 
-## 기능 추가를 원하시거나 버그사항은 arx119@empas.com으로 보내주세요.
+## 기능 추가를 원하시거나 버그사항은 arx119@gmail.com으로 보내주세요.
